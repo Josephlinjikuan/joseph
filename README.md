@@ -1,2 +1,2 @@
-# joseph
+# Joseph
 salesperson &amp; market analyst
